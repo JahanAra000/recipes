@@ -6,7 +6,9 @@ The current project is about some of the recipes that ammu likes and once I have
 (v)How to link files 
 (vi)How to link images 
 (vii)How to organize a project directory
-(viii)How to give proper credit to assets taken 
+(viii)How to give proper credit to assets taken
+(xi)How to use typography property such as color,font-size,font-weight,font-family 
+(x)How to use background-color property
 
 # Asset Credits and Attribution
 
