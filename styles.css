@@ -1,0 +1,10 @@
+*{
+    color:aliceblue;
+    font-size:32px;
+    font-weight:700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li{
+    background-color: rgba(rgba(255, 0, 0, 0.381), rgb(0, 128, 98), rgb(0, 255, 238), alpha);
+}
